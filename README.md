@@ -4,6 +4,8 @@ A modern Machine Learning web application that predicts whether a given news art
 
 Built with Python, Scikit-Learn, and Streamlit.
 
+🔗 **Live Link**: [https://fakenewsdetector-project.streamlit.app/](https://fakenewsdetector-project.streamlit.app/)
+
 ---
 
 ## 🚀 Features
