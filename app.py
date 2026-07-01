@@ -106,4 +106,4 @@ if st.button("🚀 Check News"):
         st.warning("⚠️ Please enter some text to analyze.")
 
 # Footer
-st.markdown("<p style='text-align:center;color:#64748b;margin-top:30px;'>Made with ❤️ using Machine Learning</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;color:#64748b;margin-top:30px;'>Made with ❤️ by Trisha Jana using Machine Learning</p>", unsafe_allow_html=True)

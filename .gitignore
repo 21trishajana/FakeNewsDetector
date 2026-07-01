@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Jupyter Notebooks and checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datasets (Ignored to avoid GitHub size limits)
+Fake.csv
+True.csv
+
+# Models (Can be ignored if they are regenerated or stored externally, but keeping in git if required)
+# lr_model.jb
+# vectorizer.jb
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
