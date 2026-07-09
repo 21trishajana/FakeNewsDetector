@@ -18,15 +18,15 @@ Built with Python, Scikit-Learn, and Streamlit.
 ## 🛠️ Installation & Setup
 
 ### 1. Prerequisites
-Make sure you have **Python 3.8+** installed on your system.
+**Python 3.8+** installed on your system.
 
-### 2. Set Up Virtual Environment (Recommended)
-Open your terminal/command prompt in the project root directory and run:
+### 2. Set Up Virtual Environment
+Opened terminal/command prompt in the project root directory and run:
 ```powershell
 # Create virtual environment
 python -m venv venv
 
-# Activate virtual environment (Windows)
+# Activate virtual environment
 .\venv\Scripts\activate
 ```
 
@@ -40,7 +40,7 @@ Start the Streamlit development server:
 ```powershell
 streamlit run app.py
 ```
-This will open the app automatically in your default web browser (typically at `http://localhost:8501`).
+This will open the app automatically in default web browser (typically at `http://localhost:8501`).
 
 ---
 
